@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+# Python 環境管理
+
+永遠使用 uv 管理 Python 環境
